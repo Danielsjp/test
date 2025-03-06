@@ -1,4 +1,4 @@
-﻿#git config --global user.name daniel.sanchez
+﻿git config --global user.name daniel.sanchez
 git config --global user.email sjp.daniel@gmail.com
 git config --global core.editor "code --wait"
 git init
