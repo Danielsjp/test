@@ -27,4 +27,4 @@ if ($remoteUrl -eq "https://github.com/Danielsjp/test.git") {
 # Agregar, hacer commit y push
 git add .
 git commit -m "test"
-git push -u origin main
+git push 
